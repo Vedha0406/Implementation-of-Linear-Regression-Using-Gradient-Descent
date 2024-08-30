@@ -112,26 +112,9 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-Profit Prediction Graph :
+![362533965-0b9d5cff-56e2-4820-8b35-cc1753389ba1](https://github.com/user-attachments/assets/f11544b8-09a7-4d08-a87a-d0774ffd6e76)
+![362534016-68888f04-b12f-4dcc-9d3d-79b29a3875f1](https://github.com/user-attachments/assets/67c81e11-5064-47f7-991a-faaf68dda5fa)
 
-![im1](https://github.com/user-attachments/assets/84e9cf91-47aa-4c6a-9e50-89f2f7bbcbb4)
-
-![im2](https://github.com/user-attachments/assets/ebd57773-a03d-4158-83c5-83aff74dca81)
-
-Compute cost value:
-![im3](https://github.com/user-attachments/assets/b7a91f39-c315-4dda-adfa-0855394fc494)
-
-h(x)Value
-![im4](https://github.com/user-attachments/assets/7ef8c8b5-47d5-4c71-87f4-4ee93457fc22)
-
-cost function using Gradient Descent Graph:
-![im5](https://github.com/user-attachments/assets/ce9067f1-5979-485b-95ed-31fc695ac59c)
-
-Profit for the Population 35,000:
-![im6](https://github.com/user-attachments/assets/8e714937-2a22-4902-a082-a6ee32915736)
-
-Profit for the Population 70,000:
-![im7](https://github.com/user-attachments/assets/9e7b7f6a-2912-4176-b2e0-5845367627c4)
 
 
 ## Result:
